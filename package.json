@@ -1,0 +1,12 @@
+{
+  "name": "student-management-system",
+  "version": "1.0.0",
+  "description": "Student Management System - PaaS Project",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
